@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2022-07-28 18:28:55
+  dog: one
+  dogsitter: one
+  city: one
+
+two:
+  date: 2022-07-28 18:28:55
+  dog: two
+  dogsitter: two
+  city: two
